@@ -6,7 +6,7 @@
 
 ## Dataset
 
-> This data set includes information about individual rides madein a bike-sharing system covering the greater San FranciscoBay area.
+This data set includes information about individual rides madein a bike-sharing system covering the greater San FranciscoBay area.
 
 
 ## Summary of Findings
